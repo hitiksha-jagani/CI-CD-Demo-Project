@@ -1,0 +1,13 @@
+# IntelliJ / Eclipse / VS Code
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+node_modules/
